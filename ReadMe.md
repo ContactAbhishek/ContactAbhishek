@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhishek
 - 🔭 I’m currently working at [Halma India](https://www.halma.in/).
 - 👀 I’m interested in Application development in Mobile devices.
-- 🌱 I’m currently learning Jetpack Compose, OpenGL ES.
+- 🌱 I’m currently learning Jetpack Compose, OpenGL ES and exploring Flutter.
 - 🏠 Bengaluru, India.
