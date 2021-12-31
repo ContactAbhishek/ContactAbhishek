@@ -1,11 +1,10 @@
 ### Hi there, I'm Abhishek👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/fictioncoder?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=fictioncoder)
-
-- 🌱 I’m currently learning OpenGL ES, Jetpack Compose and Android development 
+- 🏠 I'm from Bengaluru, India
+- 🌱 I’m currently learning OpenGL ES, Jetpack Compose and Android development
 - 👯 I’m looking to collaborate with other developer in Android field
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play any sport.
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
