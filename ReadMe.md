@@ -15,4 +15,4 @@
 
 [twitter]: https://twitter.com/fictioncoder
 [instagram]: https://www.instagram.com/fictionxcoder/
-[linkedin]: www.linkedin.com/in/developerAbhishek 
+[linkedin]: https://www.linkedin.com/in/developerAbhishek 
