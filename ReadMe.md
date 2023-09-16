@@ -1,6 +1,6 @@
 ### Hi there, I'm Abhishek👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/fictioncoder?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=fictioncoder)
+[![Twitter Follow](https://img.shields.io/twitter/follow/XDevAbhi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=fictioncoder)
 - 🏠 Bengaluru, India
 - 🌱 Learning OpenGL ES, Jetpack Compose and Android development
 - 🥅 2022 Goals: Contribute more to Open Source projects
@@ -13,6 +13,6 @@
 
 
 
-[twitter]: https://twitter.com/fictioncoder
-[instagram]: https://www.instagram.com/fictionxcoder/
-[linkedin]: https://www.linkedin.com/in/developerAbhishek 
+[twitter]: https://twitter.com/XDevAbhi
+[instagram]: https://www.instagram.com/fictionxcoder
+[linkedin]: https://www.linkedin.com/in/linkedinDevAbhi
