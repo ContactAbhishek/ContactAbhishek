@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/XDevAbhi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=fictioncoder)
 - 🏠 Bengaluru, India
-- 🌱 Learning Jetpack Compose and flutter
+- 🌱 Learning Compose multiplatform.
 - 🥅 2023 Goals: Contribute more to Open Source projects and learn swift
 
 ### Connect with me:
