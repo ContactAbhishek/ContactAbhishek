@@ -3,7 +3,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/builditabhi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=builditabhi)
 - 🏠 Bengaluru, India
 - 🌱 Learning Compose multiplatform.
-- 🥅 2023 Goals: Contribute more to Open Source projects and learn swift
+- 🥅 Goals: Learn more and share more.
 
 ### Connect with me:
 
